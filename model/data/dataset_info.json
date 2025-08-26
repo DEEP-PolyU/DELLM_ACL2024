@@ -1,0 +1,12 @@
+{
+    "SFT-EKG": {
+        "file_name": "SFT-EKG.json"
+    },
+    "PRED-EKG": {
+        "file_name": "PRED-EKG.json"
+    },
+    "DPO-EKG": {
+        "file_name": "DPO-EKG.json",
+        "ranking": true
+    }
+}
